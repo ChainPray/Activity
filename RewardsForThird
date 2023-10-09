@@ -1,0 +1,27 @@
+1. Twitter Link: https://twitter.com/zerochl007/status/1708739468335906922
+2. Event Description
+```
+Guild Linkhttps://guild.xyz/chainpray
+Task Description: Assume the role of "Citizen"
+Reward Pool: 500,000 PrayLuck.
+```
+3. Reward Description
+```
+Reward distribution in decreasing mode.
+...
+```
+5. Reward Address
+```
+"address","PlAmount"
+"0x0000006046aeebbe6de1b8648f5dbebf244a7095","62500"
+"0xd169784edcf8641645a6a4df14ce1b76b0871c9f","62500"
+"0x959f98d142a184b95c4156c00a04e44817be4bec","62500"
+"0xec669973536a6010b8f23ac28e2ba2d923fcc6bb","62500"
+"0x0000000a4567b5b4bbd834e9ff0c35c78943514f","62500"
+"0x00d9f3cde355a5fe087a80076ff799611fc0acc4","62500"
+"0x00000037f874b9ed53951afcff112b31acea33e9","62500"
+"0x00000000e8334445e02d819eafd75addf2133a5f","62500"
+
+...
+```
+6. Reward Transaction Hash:https://explorer.zksync.io/tx/0xdf399b0e337fa16e948fc67c17cfaf74a1ec358ec0eb351a7d41c23148a204a1
